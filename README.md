@@ -9,3 +9,12 @@ Some things in supermarkets have simple prices: this can of beans costs $0.65. O
 •     buy two, get one free (so does the third item have a price?)
  
 The exercise is to experiment with a model that is flexible enough to deal with these (and other) pricing schemes, and at the same time are generally usable how do you keep an audit trail of pricing decisions.
+
+Prerequisites
+
+    Java 8
+    Maven 3.5.3
+
+Running the tests
+
+mvn clean test
